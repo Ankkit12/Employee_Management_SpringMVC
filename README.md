@@ -1,4 +1,4 @@
-🚀 Employee Management System (Full-Stack)
+<img width="1907" height="462" alt="Screenshot 2026-06-28 215723" src="https://github.com/user-attachments/assets/45b3429a-8ae5-4441-844c-098a66b853c5" />🚀 Employee Management System (Full-Stack)
 
 A full-stack Employee Management System built using Spring Boot, Spring Security, JWT Authentication, React, MySQL, and Thymeleaf.
 
@@ -107,8 +107,12 @@ Password: fun123
  
 📸 Screenshots
 
-<img width="1907" height="632" alt="Screenshot 2026-06-28 215155" src="https://github.com/user-attachments/assets/43193db5-60e7-4fbc-a63c-1a9587f2f171" />
-
+<img width="1907" height="632" alt="Screenshot 2026-06-28 215155" src="https://github.com/user-attachments/assets/f001fcf3-7f36-4835-9af4-4f4aa98ae38d" />
+<img width="1907" height="462" alt="Screenshot 2026-06-28 215723" src="https://github.com/user-attachments/assets/49cfe95a-fc1f-4bd8-9f2d-309210931800" />
+<img width="1902" height="667" alt="Screenshot 2026-06-28 215635" src="https://github.com/user-attachments/assets/8d9fd67b-97f6-403f-a741-2a01304712d0" />
+<img width="1907" height="892" alt="Screenshot 2026-06-28 215528" src="https://github.com/user-attachments/assets/afc68e8b-35cf-43fd-ace9-5e9c44450cd8" />
+<img width="1895" height="905" alt="Screenshot 2026-06-28 215421" src="https://github.com/user-attachments/assets/ffa83daf-7c0e-41a4-ac23-638bf930b3f6" />
+<img width="1892" height="717" alt="Screenshot 2026-06-28 215356" src="https://github.com/user-attachments/assets/253fd84c-652b-4e0e-ae0f-f7ce278df843" />
 
 🚀 Future Enhancements
 - Docker containerization 🐳
