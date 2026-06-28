@@ -1,4 +1,4 @@
-<img width="1907" height="462" alt="Screenshot 2026-06-28 215723" src="https://github.com/user-attachments/assets/45b3429a-8ae5-4441-844c-098a66b853c5" />🚀 Employee Management System (Full-Stack)
+🚀 Employee Management System (Full-Stack)
 
 A full-stack Employee Management System built using Spring Boot, Spring Security, JWT Authentication, React, MySQL, and Thymeleaf.
 
